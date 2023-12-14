@@ -1,7 +1,7 @@
 # Welcome to the Use .gitignore exercise!
 
 This exercise checks your knowledge on using a `.gitignore` file. It is automatically graded via a workflow once you have completed the instructions.
-
+ To check how dumb Haider can be. 
 ## About this exercise
 
 :warning: A grading script exists under `.github/workflows/grading.yml`. You do not need to use this workflow for any purpose and **altering its contents will affect the repository's ability to assess your exercise and give feedback.**
